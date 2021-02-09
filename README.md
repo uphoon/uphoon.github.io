@@ -1,10 +1,9 @@
 > 최근 클라이언트 및 수주 업체와 원만한 관계를 유지 속에서 최근 금용권 프로젝트를 안정적으로 마무리 하였습니다. 현재 새로 참여할 프로젝트 섭외 중에 있으며 2021년 2월부터 투입 가능합니다.
+> 아래 메일로 연락주시면 최신 스킬인벤토리 보내드리겠습니다.
+email : uphoon@gmail.com
 
 
 # PROJECT
-
-아래 메일로 연락주시면 최신 스킬인벤토리 보내드리겠습니다.
-email : uphoon@gmail.com
 
 ### DGB대구은행: 기업뱅킹고도화 2020.04~2021.01
 - 개발/개발리더(B2B파트)
@@ -16,26 +15,26 @@ email : uphoon@gmail.com
 - ~~인터페이스~~, ~~Gatway~~, Portal 중 Portal 파트 담당.
 - Spring 4, Javascript, Java, Oracle 12c, 수행사 제품 베이스: CA develop Portal
 
-## 현대제철: 중기외주생산관리시스템 2019.07~2019.11
+### 현대제철: 중기외주생산관리시스템 2019.07~2019.11
 - 개발/PL/AA
 - 공통 및 담당업무
 - 와이즈그리드, Javascript, Java, MS SQL
 
-## 삼성전자: Smart city Mobile 2019.02~2019.05
+### 삼성전자: Smart city Mobile 2019.02~2019.05
 - 개발 공통
 - Vue Framwork 제안 및 적용
 - Hybrid Mobile App, 삼성전자 모바일 SEMP, Vue, Javascript, Font-end side, Tibero 
 
-## 삼성전자: Bug Bounty system 2018.04~2019.01
+### 삼성전자: Bug Bounty system 2018.04~2019.01
 - 개발/안정화/운영
 - 삼성전자 SDP 프레임웍, PPAS(PostgreSql), D3 
 
-## 삼성전자: IMEI(IMEI Writing 고도화) 2017.03~2018.03
+### 삼성전자: IMEI(IMEI Writing 고도화) 2017.03~2018.03
 - 개발/AA
 - 공통 및 담당업무
 - 삼성전자 SDP 프레임웍, Oracle, Weblogic, 웹서비스, CXF, D3 챠트
 
-## 이하 생략 ...
+### 이하 생략 ...
 
 20년 가까운 SI 경력을 가지고 있습니다.(SDS 스마트투게더 : 특급L2)
 
@@ -46,15 +45,14 @@ email : uphoon@gmail.com
 
 # STACKS
 
-## Language
+### Language
 
-Java, Jsp(JSTL), Javascript, JQuery, SQL(쿼리 및 프로시져)
+- Java, Jsp(JSTL), Javascript, JQuery, SQL(쿼리 및 프로시져)
 
-## Framework & Tool
+### Framework & Tool
 
-Spring, SDP(삼성전자 프레임웍), AngularJS (or Angular2 이상), Ionic, Vue, D3, X-Platform, CXF(웹서비스), Jekyll, Git
-
-etc. 각종 RIA이나 그리드 툴 _ XFLATFORM, TRUSTFORM, 와이즈그리드, IBSheet 등  (경험이 많아 처음 접하는 툴도 개념 및 습득 속도가 빠름)
+- Spring, SDP(삼성전자 프레임웍), AngularJS (or Angular2 이상), Ionic, Vue, D3, X-Platform, CXF(웹서비스), Jekyll, Git
+- etc. 각종 RIA이나 그리드 툴 _ XFLATFORM, TRUSTFORM, 와이즈그리드, IBSheet 등  (경험이 많아 처음 접하는 툴도 개념 및 습득 속도가 빠름)
 
 
 # ABOUT ME
