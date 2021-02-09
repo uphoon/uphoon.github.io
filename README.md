@@ -1,6 +1,66 @@
-> March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
+> 최근 클라이언트 및 수주 업체와 원만한 관계를 유지 속에서 금용권 프로젝트를 안정적으로 마무리 하였습니다. 현재 새로 참여할 프로젝트 섭외 중에 있으며 2021년 2월부터 투입 가능합니다.
 
-# Jekyll Now
+# PROJECT
+
+아래 메일로 연락주시면 최신 스킬인벤토리 보내드리겠습니다.
+email : uphoon@gmail.com
+
+## DGB대구은행: 기업뱅킹고도화 2020.04~2021.01
+- 개발/개발리더(B2B파트)
+- B2B 공통, B2B 담당업무
+- Jex Framework, Javascript, Java, iBsheet 그리드
+
+## DGB대구은행: Open API 포털 파트 2019.12~2020.03 
+- PL (요구사항정의 및 협의)
+- ~~인터페이스~~, ~~Gatway~~, Portal 중 Portal 파트 담당.
+- Spring 4, Javascript, Java, Oracle 12c, 수행사 제품 베이스: CA develop Portal
+
+## 현대제철: 중기외주생산관리시스템 2019.07~2019.11
+- 개발/PL/AA
+- 공통 및 담당업무
+- 와이즈그리드, Javascript, Java, MS SQL
+
+## 삼성전자: Smart city Mobile 2019.02~2019.05
+- 개발 공통
+- Vue Framwork 제안 및 적용
+- Hybrid Mobile App, 삼성전자 모바일 SEMP, Vue, Javascript, Font-end side, Tibero 
+
+
+## 삼성전자: Bug Bounty system 2018.04~2019.01
+- 개발/안정화/운영
+- 삼성전자 SDP 프레임웍, PPAS(PostgreSql), D3 
+
+## 삼성전자: IMEI(IMEI Writing 고도화) 2017.03~2018.03
+- 개발/AA
+- 공통 및 담당업무
+- 삼성전자 SDP 프레임웍, Oracle, Weblogic, 웹서비스, CXF, D3 챠트
+
+## 이하 생략
+
+20년 가까운 SI 경력을 가지고 있습니다.(SDS 스마트투게더 : 특급L2)
+
+아래 메일로 연락주시면 최신 스킬인벤토리 보내드리겠습니다.
+
+email : uphoon@gmail.com
+
+
+
+- 
+
+# 경력기술서
+
+# STACKS
+
+- Language
+
+Java, Jsp(JSTL), Javascript, JQuery, SQL 쿼리 및 프로시져
+
+- Framework & Tool
+
+Spring, SDP(삼성전자 프레임웍), AngularJS (or Angular2 이상), Ionic, Vue, D3, X-Platform, CXF(웹서비스)
+
+
+
 
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
 
