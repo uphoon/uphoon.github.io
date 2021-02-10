@@ -5,6 +5,9 @@
 
 // Colors
 $blue: #4183C4;
+$h-7F0055: #7F0055;
+$h-2A00FF: #2A00FF;
+
 
 // Grays
 $black: #000;
@@ -22,6 +25,11 @@ $georgia: Georgia, serif;
 // Fonts
 $base-font: 'Spoqa Han Sans', 'Source Sans Pro', 'Apple SD Gothic Neo', 'Nanum Barun Gothic', 'Nanum Gothic', 'Verdana', 'Arial', 'Dotum', sans-serif;
 $code-font: 'Menlo', 'Courier New', 'Monaco', 'Spoqa Han Sans', monospace;
+
+// [worked: add]
+//$site-name: 'Yeon Sung', cursive;
+$site-name: 'Source Code Pro', monospace;
+$site-barcode: 'Libre Barcode 39', cursive;
 
 // Font sizes
 $base-font-size: 18px;

@@ -8,6 +8,8 @@
 @import "reset";
 @import "open-color";
 @import "variables";
+@import url('https://fonts.googleapis.com/css2?family=Yeon+Sung&display=swap'); // [worked: add]
+@import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+128&family=Libre+Barcode+39&display=swap'); // [worked: add]
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -355,16 +357,35 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $site-name;
   font-weight: 300;
-  font-size: 28px;
-  letter-spacing: 1px;
+  font-size: 16px;
+  letter-spacing: 0;  
+}
+
+.site-subname {
+  color: $h-7F0055;
+}
+
+.site-naming {
+  color: $h-2A00FF;
+}
+
+.site-barcode {
+  margin: 0 0 0 0;
+  color: $black;
+  font-size: 22px;
+  font-family: $site-barcode;
+
+  @include mobile {
+    margin: 3px 0;
+  }
 }
 
 .site-description {
-  margin: -5px 0 0 0;
+  margin: -15px 0 0 0;
   color: $gray;
-  font-size: 16px;
+  font-size: 10px;
 
   @include mobile {
     margin: 3px 0;
