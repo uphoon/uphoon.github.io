@@ -57,7 +57,8 @@ footer-text: Copyright © 2020 FourCushion. All Rights Reserved.
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: uphoon.disqus.com # <username>.disqus.com
+# disqus: uphoon.disqus.com # <username>.disqus.com
+disqus: uphoon
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
