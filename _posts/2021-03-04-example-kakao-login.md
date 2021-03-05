@@ -34,6 +34,7 @@ Front-end 환경은 Vue 입니다.  단일페이지(SPA) 입니다.  카카오 �
     1. Kakao Request API 호출
     1. 토큰 소멸
 
+
 ## 변경해야 할 사항
 
 localhost:4000 에서 테스트 가능 합니다.  별도로 카카오 API 어플리케이션을 관리하고 사용하고 있다면 이 항목은 해당 사항이 없습니다.
@@ -56,6 +57,10 @@ in package.json
     ```
     npm run serve
     ```
+
+## Preview
+
+<video id="video_1_html5_api" poster="//live.staticflickr.com/31337/51004240508_29d0474b67_h.jpg" class="vjs-tech" tabindex="-1" src="https://live.staticflickr.com/video/51004240508/49d149fb68/1080p.mp4?s=eyJpIjo1MTAwNDI0MDUwOCwiZSI6MTYxNDkxNjgyNiwicyI6ImUzYWY2NjQwZWIwODc5ZTcyMTlmYTA0ZTdmNjdjMDIzMjYyOTM4YTYiLCJ2IjoxfQ" width="100%"  controls autoplay></video>
 
 
 ### Customize configuration
