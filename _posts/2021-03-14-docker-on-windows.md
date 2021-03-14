@@ -24,7 +24,7 @@ tags:
 
 
 ## 요약
-BIOS에서 <u>SLAT(Second Level Address Translation)</u> 가능여부까지 확인하고 <u>WSL2</u> 나 <u>>Hyper-V</u> 환경에서 도커 설치여부 판단해야 합니다.
+BIOS에서 <u>SLAT(Second Level Address Translation)</u> 가능여부까지 확인하고 <u>WSL2</u> 나 <u>Hyper-V</u> 환경에서 도커 설치여부 판단해야 합니다.
 
 ## 설치환경
 아래 3가지 환경에서 Docker on Windows를 설치할 수 있습니다.
