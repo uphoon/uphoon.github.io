@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-> 현재 프로젝트 진행 상태 입니다. : 삼성전자 G.I Bank 시스템 (~9월 말 예정) 
+> 현재 프로젝트 진행 상태 입니다. : 삼성전자 G.I Bank 품질분임조 시스템 (~9월 말 예정) 
 
 아래의 메일로 프로젝트 제안 주시면 <u>최신 경력기술서</u> 보내드리겠습니다.
 
@@ -15,7 +15,7 @@ uphoon@gmail.com
 
 ### 삼성전자: G.I Bank 분임조고도화 (2021.04~ ... )
 - 개발
-- SQL, SDP, Spring 4.5, Hybrid Mobile App, Vue, 대시보드(챠트)
+- SQL, SDP, Spring, VueJS, 대시보드(챠트), Java, Javascript
 
 ### DGB대구은행: 기업뱅킹고도화 2020.04~2021.01
 - 개발/개발리더(B2B파트)
