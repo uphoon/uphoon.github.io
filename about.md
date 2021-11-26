@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-> 현재 프로젝트 진행 상태 입니다. : 삼성전자 G.I Bank 품질분임조 시스템 (~9월 말 예정) 
+> 현재 프로젝트 진행 상태 입니다. : DGB대구은행 IFRS 웹스퀘어 전환프로젝트 (~2022년2월) 
 
 아래의 메일로 프로젝트 제안 주시면 <u>최신 경력기술서</u> 보내드리겠습니다.
 
@@ -13,7 +13,12 @@ uphoon@gmail.com
 
 # PROJECT
 
-### 삼성전자: G.I Bank 분임조고도화 (2021.04~ ... )
+### DGB대구은행: IFRS(FLAX => WebSquare)전환프로젝트 (2021.09~2022.02예정)
+- 개발(Front-end)
+- 담당업무 분석
+- WebSquare 웹스퀘어 API, SQL, Java, Spring, Javascript(Vanilla JS)
+
+### 삼성전자: G.I Bank 분임조고도화 2021.04~2021.09
 - 개발
 - SQL, SDP, Spring, VueJS, 대시보드(챠트), Java, Javascript
 
