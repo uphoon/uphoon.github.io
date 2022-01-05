@@ -1,6 +1,11 @@
-> 현). DGB대구은행 IFRS(FLAX => WebSquare) 전환프로젝트 진행중 입니다.(2021.10 ~ )
+> 현). DGB대구은행 IFRS(FLAX => WebSquare) 전환프로젝트 진행중 입니다.(2021.10 ~ 2022.01)
 
 # PROJECT
+
+### DGB대구은행: IFRS(FLAX => WebSquare)전환프로젝트 (2021.09~2022.01)
+- 개발(Front-end)
+- 담당업무 분석
+- WebSquare 웹스퀘어 API, SQL, Java, Spring, Javascript
 
 ### 삼성전자: G.I Bank 분임조고도화 2021.04~2021.09
 - 개발
