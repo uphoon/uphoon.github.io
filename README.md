@@ -1,6 +1,11 @@
-> 현). DGB대구은행 IFRS(FLAX => WebSquare) 전환프로젝트 진행중 입니다.(2021.10 ~ 2022.01)
+> 현) 디지털 뉴딜 평가시스템 고도화 프로젝트 진행중 입니다.(2022.01 ~ 2022.04)
 
 # PROJECT
+
+### 디지털 뉴딜 평가시스템 고도화 프로젝트 (2022.01~2022.04)
+- 개발
+- 담당업무 분석
+- 전자정부프레임웍3.10(Spring FW 4.*), SQL, Java, Javascript
 
 ### DGB대구은행: IFRS(FLAX => WebSquare)전환프로젝트 (2021.09~2022.01)
 - 개발(Front-end)
@@ -54,6 +59,7 @@ email : uphoon@gmail.com
 ### Language
 
 - Java, Jsp(JSTL), Javascript, JQuery, SQL(쿼리 및 프로시져)
+- Solidity (이더리움 기반의 DApp 개발)
 
 ### Framework & Tool
 
