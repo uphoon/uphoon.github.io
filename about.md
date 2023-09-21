@@ -14,8 +14,10 @@ uphoon@gmail.com
 # PROJECT
 
 ### 캄보디아 Lotto 시스템 프로젝트 (2023.09~ ... ) 
-- in progress ...
+_* 공식라이센스를 가진 정식인가 된 프로젝트_
 - 개발PL
+- in progress ...
+
 
 ### 신한은행 Paperless 파일럿 프로젝트 (2023.06~2023.08) 
 - 개발PL
