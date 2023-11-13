@@ -37,7 +37,7 @@ tags:
 
 2. config.toml 에 파일 수정
 
-```bash
+```toml
 enabled_plugins = ["cri"]
 [plugins."io.containerd.grpc.v1.cri".containerd]
   endpoint = "unix:///var/run/containerd/containerd.sock"
