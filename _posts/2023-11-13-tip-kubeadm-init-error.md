@@ -34,15 +34,12 @@ tags:
 ```bash
    vim /etc/containerd/config.toml
 ```
-
 2. config.toml 에 파일 수정
-
 ```toml
   enabled_plugins = ["cri"]
   [plugins."io.containerd.grpc.v1.cri".containerd]
     endpoint = "unix:///var/run/containerd/containerd.sock"
 ```
-
 ![config_toml](https://github.com/uphoon/uphoon.github.io/releases/download/posts/config_toml.png "config toml")
 
 3. 컨테이너 데몬 재시작
@@ -51,11 +48,14 @@ tags:
 ```
 
 
+
 >*kubeadm 초기화 다시 실행 하였다*
 
 ```bash
 # sudo kubeadm init --pod-network-cidr=10.244.0.0/16 --v=5
 ```
+
+
 
 #### 참조
 
