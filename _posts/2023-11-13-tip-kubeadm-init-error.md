@@ -35,7 +35,7 @@ tags:
    vim /etc/containerd/config.toml
 ```
 
-2. config.toml 에 파일 수정 (내용 추가)
+2. config.toml 에 파일 수정
 ```bash
 
 enabled_plugins = ["cri"]
@@ -58,7 +58,7 @@ sudo systemctl restart containerd
 # sudo kubeadm init --pod-network-cidr=10.244.0.0/16 --v=5
 ```
 
-#### 참조 : (해결을 위한)
+#### 참조
 
 See https://github.com/containerd/containerd/issues/8139
 
