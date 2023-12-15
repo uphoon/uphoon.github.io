@@ -16,6 +16,8 @@ uphoon@gmail.com
 ### 캄보디아 Lotto 시스템 프로젝트 (2023.09~ ... ) 
 _* 공식라이센스를 가진 정식인가 된 프로젝트_
 - 개발PL
+- Kotlin, Flutter, Android
+- MSA(Micro Service Architecure), AWS
 - in progress ...
 
 
