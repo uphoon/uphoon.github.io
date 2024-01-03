@@ -5,24 +5,21 @@ permalink: /about/
 ---
 
 
-> 현재 프로젝트 진행 상태 입니다. : 캄보디아 로또 시스템 - 공식라이센스 및 정식인가 (2022년 9월 ~ ) 
-
-아래의 메일로 프로젝트 제안 주시면 <u>최신 경력기술서</u> 보내드리겠습니다.
+> 아래의 메일로 프로젝트 제안 주시면 <u>최신 경력기술서</u> 보내드리겠습니다.
 
 uphoon@gmail.com
 
 # PROJECT
 
-### 캄보디아 Lotto 시스템 프로젝트 (2023.09~ ... ) 
+### 캄보디아 Lotto 시스템 프로젝트 (2023.09~2023.12) 
 _* 공식라이센스를 가진 정식인가 된 프로젝트_
-- 개발PL
+- 개발PL, 개발
 - Kotlin, Flutter, Android
 - MSA(Micro Service Architecure), AWS
-- in progress ...
-
+- ESC script : 로또 프린팅
 
 ### 신한은행 Paperless 파일럿 프로젝트 (2023.06~2023.08) 
-- 개발PL
+- 개발PL, 개발
 - 담당업무 분석 : 상품설명서 및 보험사 I/F
 - Spring-boot, Spring F/W
 
