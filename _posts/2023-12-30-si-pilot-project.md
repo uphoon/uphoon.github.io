@@ -2,7 +2,7 @@
 layout: post
 title: Pilot Project
 tags:
-  - si
+  - SI
   - 프로젝트
 ---
 
