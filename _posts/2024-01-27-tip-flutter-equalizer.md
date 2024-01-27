@@ -21,7 +21,7 @@ tags:
 
 ## Coding
 
-<iframe src="https://dartpad.dev/?id=d45563969f8b818d541ce39051decba2?theme=light?run=true" style="width:100%;height:500px"></iframe>
+<iframe src="https://dartpad.dev/?id=d45563969f8b818d541ce39051decba2&theme=light&run=true" style="width:100%;height:500px"></iframe>
 
 
 >*혼자개발 하는 일이 많아서 리소스는 부분들은 찾아서 하는데 ... 이번 같이 커스터마이징 할 땐 항상 시간이 많이 걸린다. 머리 속에 생각하는 느낌이 나올때 까지 이러저리 계속 수치를 조정해야 하기 때문이다.*
