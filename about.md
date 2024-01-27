@@ -15,7 +15,7 @@ uphoon@gmail.com
 _* 공식라이센스를 가진 정식인가 된 프로젝트_
 - 개발PL, 개발
 - Kotlin, Flutter, Android
-- MSA(Micro Service Architecure), AWS
+- ~~MSA(Micro Service Architecure)~~, AWS
 - ESC script : 로또 프린팅
 
 ### 신한은행 Paperless 파일럿 프로젝트 (2023.06~2023.08) 
@@ -23,36 +23,36 @@ _* 공식라이센스를 가진 정식인가 된 프로젝트_
 - 담당업무 분석 : 상품설명서 및 보험사 I/F
 - Spring-boot, Spring F/W
 
-### DGB대구은행 방카슈랑스 시스템 고도화 프로젝트 (2022.05~2023.05) 
+### [DGB대구은행 방카슈랑스 시스템 고도화 프로젝트 (2022.05~2023.05)](/si-dgb-banca/) 
 - 개발(Java, SQL)
 - 담당업무 분석 : KPI 수수료 실적
 - NexCORE 프레임워크, X-Platform, 프로시져 등
 
-### NIA 디지털뉴딜 사업제안 평가시스템 고도화 프로젝트 (2022.01~2022.04)
+### [NIA 디지털뉴딜 사업제안 평가시스템 고도화 프로젝트 (2022.01~2022.04)](/si-nia-evalmgr/)
 - 개발
 - 담당업무 분석
 - 전자정부프레임웍3.10(Spring FW 4.*), SQL, Java, Javascript
 
-### DGB대구은행: IFRS(FLAX => WebSquare)전환프로젝트 (2021.09~2022.01)
+### [DGB대구은행: IFRS(FLAX => WebSquare)전환프로젝트 (2021.09~2022.01)](/si-dgb-ifrs/)
 - 개발(Front-end)
 - 담당업무 분석
 - WebSquare 웹스퀘어 API, SQL, Java, Spring, Javascript
 
-### 삼성전자: G.I Bank 분임조고도화 2021.04~2021.09
+### [삼성전자: G.I Bank 분임조고도화 2021.04~2021.09](/si-samsung-gibank/)
 - 개발
 - SQL, SDP, Spring, VueJS, 대시보드(챠트), Java, Javascript
 
-### DGB대구은행: 기업뱅킹고도화 2020.04~2021.01
+### [DGB대구은행: 기업뱅킹고도화 2020.04~2021.01](/si-dgb-banking/)
 - 개발/개발리더(B2B파트)
 - B2B 공통, B2B 담당업무
 - Jex Framework, Javascript, Java, iBsheet 그리드
 
-### DGB대구은행: Open API 포털 파트 2019.12~2020.03 
+### [DGB대구은행: Open API 포털 파트 2019.12~2020.03](/si-dgbfn-openapi/) 
 - PL (요구사항정의 및 협의)
 - ~~인터페이스~~, ~~Gatway~~, Portal 중 Portal 파트 담당.
 - Spring 4, Javascript, Java, Oracle 12c, 수행사 제품 베이스: CA develop Portal
 
-### 현대제철: 중기외주생산관리시스템 2019.07~2019.11
+### [현대제철: 중기외주생산관리시스템 2019.07~2019.11](/si-vims-hyundai-steel/)
 - 개발/PL/AA
 - 공통 및 담당업무
 - 와이즈그리드, Javascript, Java, MS SQL
