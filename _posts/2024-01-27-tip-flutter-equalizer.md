@@ -19,7 +19,7 @@ tags:
 펄싱 바를 시각적으로 모방하는 동적인 플러터 애플리케이션을 호스트합니다. CustomPainter와 AnimationController의 힘을 이용하여, 사용자의 상호 작용에 반응하여 간단한 탭으로 애니메이션을 시작하고 중지합니다.
 
 
-## Coding
+## 구현
 
 <iframe src="https://dartpad.dev/?id=d45563969f8b818d541ce39051decba2&theme=light&run=true" style="width:100%;height:500px"></iframe>
 
