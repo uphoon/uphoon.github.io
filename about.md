@@ -11,7 +11,7 @@ uphoon@gmail.com
 
 # PROJECT
 
-### [캄보디아 Lotto 시스템 프로젝트 (2023.09~2023.12)](/si-pilot-project/)
+### [이음시스템즈 해외사업 시스템 구축 (2023.09~2023.12)](/si-pilot-project/)
 _* 공식라이센스를 가진 정식인가 된 프로젝트_
 - 개발PL, 개발
 - Kotlin, Flutter, Android
