@@ -11,6 +11,14 @@ uphoon@gmail.com
 
 # PROJECT
 
+
+### [소켓 통신 hellosee 모바일앱 개발 (2024.01~2024.04)](/app-hellosee/)
+- 설계, 개발
+- Flutter, dart
+- Android, iOS
+- Fastlane, Github Action
+- Bluetooth 소켓 통신
+
 ### [해외사업(Lotto) 시스템 구축 (2023.09~2023.12)](/si-pilot-project/)
 _* 공식라이센스를 가진 정식인가 된 프로젝트_
 - 개발PL, 개발
