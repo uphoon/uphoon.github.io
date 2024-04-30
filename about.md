@@ -128,4 +128,4 @@ var myObject = {
 
 - E : uphoon@gmail.com
 - G : http://uphoon.github.io
-- I : https://www.instagram.com/uphoon/
+- I : https://www.instagram.com/over.hoon/
