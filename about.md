@@ -23,7 +23,7 @@ uphoon@gmail.com
 _* 공식라이센스를 가진 정식인가 된 프로젝트_
 - 개발PL, 개발
 - Kotlin, Flutter, Android
-- ~~MSA(Micro Service Architecure)~~, AWS
+- MSA(Micro Service Architecure), AWS, Spring F/W, Docker/쿠버네이트
 - ESC script : 라벨 프린팅
 
 ### 신한은행 Paperless 파일럿 프로젝트 (2023.06~2023.08) 
