@@ -20,7 +20,5 @@ tags:
 - Eclipse, PL/SQL Developer
 
 
-![NIA_PROJECT](https://github.com/uphoon/uphoon.github.io/releases/download/posts/nia_ci_10.png "NIA")
-
 >*내 SI 연차가 벌써 ... 아직은 현역이다.*
 
