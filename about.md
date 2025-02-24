@@ -11,6 +11,13 @@ uphoon@gmail.com
 
 # PROJECT
 
+### [K-에듀파인 24 선진화 (2024.07~2024.12)](/si-kedufine/)
+- 개발
+- 담당업무 분석 : 계속비사업, 결산회계(사전조사식 등)
+- Oracle
+- 전자정부프레임웍, Spring F/W
+- 넥사크로 - NEXACRO
+- 담당 개발파트 리더
 
 ### [소켓 통신 hellosee 모바일앱 개발 (2024.01~2024.04)](/app-hellosee/)
 - 설계, 개발
