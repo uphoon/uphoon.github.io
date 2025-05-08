@@ -37,4 +37,3 @@ tags: [watchface, exposure, personal, reflection, development]
 
 > *그래도도 사람이였나 보다, 절박함이 있었나 보다 ...*
 
-> *운동 다시하고 싶다*
