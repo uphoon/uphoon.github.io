@@ -4,13 +4,15 @@ title:
 permalink: /about/
 ---
 
-> 현) SK Siltron - PMS 시스템 프로젝트 참여 중 (2025.04 ~ 2025.07)
-
 > 아래의 메일로 프로젝트 제안 주시면 <u>최신 경력기술서</u> 보내드리겠습니다.
 
 uphoon@gmail.com
 
 # PROJECT
+
+### [SK Siltron PMS 시스템 고도화 프로젝트 (2025.04~2025.07)](/si-sk_siltron/)
+- 개발
+- Dashboard 및 데이터 마이그레이션
 
 ### [K-에듀파인 24 선진화 (2024.07~2024.12)](/si-kedufine/)
 - 개발
