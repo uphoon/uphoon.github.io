@@ -10,9 +10,15 @@ uphoon@gmail.com
 
 # PROJECT
 
-### [SK Siltron PMS 시스템 고도화 프로젝트 (2025.04~2025.07)](/si-sk_siltron/)
+### BNK 부산은행 방카슈랑스 디지털창구 구축 (2025.07~ 진행중)
+- 이슈 대응 및 해결
+- File Interface 및 Batch
+- Clip Report 서명 및 기타 사용자 입력 제어를 위한 스크립트 작성
+- Spring-boot, Spring F/W, Unix
+
+### [SK Siltron PMS 시스템 고도화 프로젝트 (2025.04~2025.06)](/si-sk_siltron/)
 - 개발
-- Dashboard 및 데이터 마이그레이션
+- 데이터 마이그레이션 및 Dashboard
 
 ### [K-에듀파인 24 선진화 (2024.07~2024.12)](/si-kedufine/)
 - 개발
