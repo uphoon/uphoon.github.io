@@ -11,7 +11,7 @@ uphoon@gmail.com
 # PROJECT
 
 ### BNK 부산은행 방카슈랑스 디지털창구 구축 (2025.07~ 진행중)
-- 이슈 대응 및 해결
+- AA / 이슈 대응 및 해결
 - File Interface 및 Batch
 - Clip Report 서명 및 기타 사용자 입력 제어를 위한 스크립트 작성
 - Spring-boot, Spring F/W, Unix
