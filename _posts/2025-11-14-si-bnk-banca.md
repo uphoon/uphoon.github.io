@@ -14,10 +14,12 @@ Paperless ...
 은행에서 상품을 가입할때 종이 대신 태블릿을 이용하여 가입할 수 있도록 하는 시스템입니다.
 
 
-![BNK 부산은행](https://github.com/user-attachments/assets/a82c330e-f960-4474-a5f2-5cb8682dec96){: width="320" height="320"}
+![BNK 부산은행](https://github.com/user-attachments/assets/b3ddda9c-0a44-4702-8adf-84402d3cac5b)
 
  
-신규 개발도 하고, 일부는 기존 운영중인 버그도 고치며, 기존 소스를 분석/수정하여 추가 기능도 개발하였습니다.
+주 업무는 개발중에 일어나는 여러 이슈들을 해결하는 것이었으며, 일부는
+
+신규 개발 작업과 더불어 기존 시스템에서 발생한 버그를 수정하고, 기존 소스를 분석하여 추가적인 기능을 구현하였습니다.
 
 
 
@@ -30,5 +32,8 @@ Paperless ...
 - Spring-boot, Spring F/W, Unix, Linux, Oracle
 - VS Code, PL/SQL Developer, Git
 
->*기차길목 분식집이 진짜 맛집이다.*
+
+>*기찻길분식 - 진짜 맛집이다. ⭐⭐⭐⭐⭐*
+
+![기찻길분식](https://github.com/user-attachments/assets/b3f0d8cc-7b8f-474a-96b4-087fe574d329)
 
