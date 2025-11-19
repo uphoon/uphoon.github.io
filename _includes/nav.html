@@ -7,8 +7,14 @@
 
       <div class="site-info">
         <h1 class="site-name"><a href="{{ site.baseurl }}/">{<span class="site-subname">name:</span><span class="site-naming">'{{ site.name }}'</span>}</a></h1>
+        {% assign descriptions = site.description | split: ";" %}
+        {% assign random_descriptions = descriptions | sample: 5 %}
         <p class="site-barcode">{{ site.barcode }}</p>
-        <p class="site-description">{{ site.description }}</p>
+        <ul class="site-description">
+          {% for desc in random_descriptions %}
+            <li>{{ desc }}</li>
+          {% endfor %}
+        </ul>
       </div>
 
       <nav>
