@@ -11,7 +11,7 @@ uphoon@gmail.com
 
 # PROJECT
 
-## IM금융지주 기업신용평가 재개발 (2025.12 ~ 진행중)
+### IM금융지주 기업신용평가 재개발 프로젝트 (2025.12 ~ 진행중)
 - Interface / Batch 분석 및 개발
 - Procedure, SQL
 - Spring F/W, Tibero
