@@ -7,3 +7,16 @@ _site
 .sass-cache
 node_modules
 package.json
+package-lock.json
+
+# OpenClaw workspace secrets
+AGENTS.md
+SOUL.md
+USER.md
+MEMORY.md
+memory/
+HEARTBEAT.md
+TOOLS.md
+skills/
+.openclaw/
+workspace-state.json
