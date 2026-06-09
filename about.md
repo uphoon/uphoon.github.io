@@ -4,15 +4,13 @@ title:
 permalink: /about/
 ---
 
-> IM금융지주 기업신용평가 재개발 프로젝트를 진행중입니다.
-
 > 아래의 메일로 프로젝트 제안 주시면 <u>최신 경력기술서</u> 보내드리겠습니다.
 
 uphoon@gmail.com
 
 # PROJECT
 
-### IM금융지주 기업신용평가 재개발 프로젝트 (2025.12 ~ 진행중)
+### [IM금융지주 기업신용평가 재개발 프로젝트 (2025.12 ~ 2026.06)](/si-imbnk-erm/)
 - Interface / Batch 분석 및 개발
 - Procedure, SQL
 - Spring F/W, Tibero
